@@ -3,9 +3,9 @@
 
 | Keterangan | Data |
 |---|---|
-| **Nama** | Arfianti |
-| **NPM** | 07352411096 |
-| **Kelas** | 5IF3 |
+| **Nama** | **Arfianti** |
+| **NPM** | **07352411096** |
+| **Kelas** | **5IF3** |
 
 ## DAFTAR ISI
 
